@@ -1,0 +1,11 @@
+body {
+    min-height: 3000px;
+}
+.bgimage {
+    padding-top: 2rem;
+    background-color: rgb(56, 117, 170);
+}
+
+#Gallery {
+    background-color: blue;
+}
